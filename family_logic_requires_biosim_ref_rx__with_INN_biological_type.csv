@@ -1,0 +1,85 @@
+Biologic Family,Proper Name,Proper Name (base),INN Stem,INN Substem,Biological Type,Notes,Proprietary Name,Applicant,BLA Number,BLA Type,Product Type,Ref. Product Proper Name,Ref. Product Proprietary Name,Family Reference Proprietary Name,Marketing Status
+adalimumab,adalimumab,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Humira,AbbVie Inc.,125057,351(a),Reference,,,Humira,Rx
+adalimumab,adalimumab-atto,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Amjevita,Amgen Inc.,761024,351(k) Interchangeable,Interchangeable,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-adbm,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Cyltezo,"Boehringer Ingelheim Pharmaceuticals, Inc.",761058,351(k) Interchangeable,Interchangeable,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-bwwd,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Hadlima,"Samsung Bioepis Co., Ltd.",761059,351(k) Interchangeable,Interchangeable,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-adaz,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Hyrimoz,Sandoz Inc.,761071,351(k) Interchangeable,Interchangeable,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-afzb,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Abrilada,Pfizer Inc.,761118,351(k) Interchangeable,Interchangeable,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-fkjp,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Hulio,Biocon Biologics Inc.,761154,351(k) Interchangeable,Interchangeable,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-aqvh,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Yusimry,Hong Kong King-Friend Industrial Company Limited,761216,351(k) Biosimilar,Biosimilar,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-aaty,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Yuflyma,"CELLTRION, Inc.",761219,351(k) Biosimilar,Biosimilar,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-aacf,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Idacio,"Fresenius Kabi USA, LLC",761255,351(k) Biosimilar,Biosimilar,adalimumab,Humira,Humira,Rx
+adalimumab,adalimumab-ryvk,adalimumab,'-mab,'-umab,Monoclonal antibody (human),,Simlandi,Alvotech USA Inc.,761299,351(k) Interchangeable,Interchangeable,adalimumab,Humira,Humira,Rx
+aflibercept,aflibercept,aflibercept,'-cept,,Receptor fusion protein,,Eylea,"Regeneron Pharmaceuticals, Inc.",125387,351(a),Reference,,,Eylea,Rx
+aflibercept,aflibercept-jbvf,aflibercept,'-cept,,Receptor fusion protein,,Yesafili,Biocon Biologics Inc.,761274,351(k) Interchangeable,Interchangeable,aflibercept,Eylea,Eylea,Rx
+aflibercept,aflibercept-ayyh,aflibercept,'-cept,,Receptor fusion protein,,Pavblu,Amgen Inc.,761298,351(k) Biosimilar,Biosimilar,aflibercept,Eylea,Eylea,Rx
+aflibercept,aflibercept-yszy,aflibercept,'-cept,,Receptor fusion protein,,Opuviz,"Samsung Bioepis Co., Ltd.",761350,351(k) Interchangeable,Interchangeable,aflibercept,Eylea,Eylea,Rx
+aflibercept,aflibercept,aflibercept,'-cept,,Receptor fusion protein,,Eylea HD,"Regeneron Pharmaceuticals, Inc.",761355,351(a),Reference,,,Eylea,Rx
+aflibercept,aflibercept-mrbb,aflibercept,'-cept,,Receptor fusion protein,,Ahzantive,Formycon AG,761378,351(k) Biosimilar,Biosimilar,aflibercept,Eylea,Eylea,Rx
+aflibercept,aflibercept-abzv,aflibercept,'-cept,,Receptor fusion protein,,Enzeevu,Sandoz Inc.,761382,351(k) Biosimilar,Biosimilar,aflibercept,Eylea,Eylea,Rx
+bevacizumab,bevacizumab,bevacizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Avastin,"Genentech, Inc.",125085,351(a),Reference,,,Avastin,Rx
+bevacizumab,bevacizumab-awwb,bevacizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Mvasi,Amgen Inc.,761028,351(k) Biosimilar,Biosimilar,bevacizumab,Avastin,Avastin,Rx
+bevacizumab,bevacizumab-bvzr,bevacizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Zirabev,Pfizer Inc.,761099,351(k) Biosimilar,Biosimilar,bevacizumab,Avastin,Avastin,Rx
+bevacizumab,bevacizumab-tnjn,bevacizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Avzivi,"Bio-Thera Solutions, Ltd.",761198,351(k) Biosimilar,Biosimilar,bevacizumab,Avastin,Avastin,Rx
+bevacizumab,bevacizumab-maly,bevacizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Alymsys,Amneal Pharmaceuticals LLC,761231,351(k) Biosimilar,Biosimilar,bevacizumab,Avastin,Avastin,Rx
+bevacizumab,bevacizumab-adcd,bevacizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Vegzelma,"CELLTRION, Inc.",761268,351(k) Biosimilar,Biosimilar,bevacizumab,Avastin,Avastin,Rx
+eculizumab,eculizumab,eculizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Soliris,"Alexion Pharmaceuticals, Inc.",125166,351(a),Reference,,,Soliris,Rx
+eculizumab,eculizumab-aeeb,eculizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Bkemv,Amgen Inc.,761333,351(k) Interchangeable,Interchangeable,eculizumab,Soliris,Soliris,Rx
+eculizumab,eculizumab-aagh,eculizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Epysqli,"Samsung Bioepis Co., Ltd.",761340,351(k) Biosimilar,Biosimilar,eculizumab,Soliris,Soliris,Rx
+epoetin alfa,epoetin alfa,epoetin alfa,'epoetin,,Erythropoiesis-stimulating agent (EPO analog),,Epogen/Procrit,Amgen Inc.,103234,351(a),Reference,,,Epogen/Procrit,Rx
+epoetin alfa,epoetin alfa-epbx,epoetin alfa,'epoetin,,Erythropoiesis-stimulating agent (EPO analog),,Retacrit,"Hospira Inc., a Pfizer Company",125545,351(k) Biosimilar,Biosimilar,epoetin alfa,Procrit,Epogen/Procrit,Rx
+filgrastim,filgrastim,filgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),,Neupogen,Amgen Inc.,103353,351(a),Reference,,,Neupogen,Rx
+filgrastim,filgrastim-sndz,filgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),,Zarxio,Sandoz Inc.,125553,351(k) Biosimilar,Biosimilar,filgrastim,Neupogen,Neupogen,Rx
+filgrastim,filgrastim-aafi,filgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),,Nivestym,"Hospira Inc., a Pfizer Company",761080,351(k) Biosimilar,Biosimilar,filgrastim,Neupogen,Neupogen,Rx
+filgrastim,filgrastim-ayow,filgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),,Releuko,"Kashiv BioSciences, LLC",761082,351(k) Biosimilar,Biosimilar,filgrastim,Neupogen,Neupogen,Rx
+filgrastim,filgrastim-txid,filgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),,Nypozi,"Tanvex BioPharma USA, Inc.",761126,351(k) Biosimilar,Biosimilar,filgrastim,Neupogen,Neupogen,Rx
+infliximab,infliximab,infliximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Remicade,"Janssen Biotech, Inc.",103772,351(a),Reference,,,Remicade,Rx
+infliximab,infliximab-dyyb,infliximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Inflectra,"CELLTRION, Inc.",125544,351(k) Biosimilar,Biosimilar,infliximab,Remicade,Remicade,Rx
+infliximab,infliximab-abda,infliximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Renflexis,"Samsung Bioepis Co., Ltd.",761054,351(k) Biosimilar,Biosimilar,infliximab,Remicade,Remicade,Rx
+infliximab,infliximab-axxq,infliximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Avsola,Amgen Inc.,761086,351(k) Biosimilar,Biosimilar,infliximab,Remicade,Remicade,Rx
+infliximab,infliximab-dyyb,infliximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Zymfentra,"CELLTRION, Inc.",761358,351(a),Reference,,,Remicade,Rx
+insulin glargine,insulin glargine,insulin glargine,'insulin,,Insulin analog,,Lantus,Sanofi-Aventis U.S. LLC,21081,351(a),Reference,,,Basaglar,Rx
+insulin glargine,insulin glargine,insulin glargine,'insulin,,Insulin analog,,Basaglar,Eli Lilly and Company,205692,351(a),Reference,,,Basaglar,Rx
+insulin glargine,insulin glargine,insulin glargine,'insulin,,Insulin analog,,Toujeo,Sanofi-Aventis U.S. LLC,206538,351(a),Reference,,,Basaglar,Rx
+insulin glargine,insulin glargine-yfgn,insulin glargine,'insulin,,Insulin analog,,Semglee,Biocon Biologics Inc.,761201,351(k) Interchangeable,Interchangeable,insulin glargine,Lantus,Basaglar,Rx
+insulin glargine,insulin glargine-aglr,insulin glargine,'insulin,,Insulin analog,,Rezvoglar,Eli Lilly and Company,761215,351(k) Interchangeable,Interchangeable,insulin glargine,Lantus,Basaglar,Rx
+natalizumab,natalizumab,natalizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Tysabri,Biogen Inc.,125104,351(a),Reference,,,Tysabri,Rx
+natalizumab,natalizumab-sztn,natalizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Tyruko,Sandoz Inc.,761322,351(k) Biosimilar,Biosimilar,natalizumab,Tysabri,Tysabri,Rx
+pegfilgrastim,pegfilgrastim,pegfilgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),PEGylated,Neulasta,Amgen Inc.,125031,351(a),Reference,,,Neulasta,Rx
+pegfilgrastim,pegfilgrastim-cbqv,pegfilgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),PEGylated,Udenyca,"Coherus BioSciences, Inc.",761039,351(k) Biosimilar,Biosimilar,pegfilgrastim,Neulasta,Neulasta,Rx
+pegfilgrastim,pegfilgrastim-bmez,pegfilgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),PEGylated,Ziextenzo,Sandoz Inc.,761045,351(k) Biosimilar,Biosimilar,pegfilgrastim,Neulasta,Neulasta,Rx
+pegfilgrastim,pegfilgrastim-jmdb,pegfilgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),PEGylated,Fulphila,Biocon Biologics Inc.,761075,351(k) Biosimilar,Biosimilar,pegfilgrastim,Neulasta,Neulasta,Rx
+pegfilgrastim,pegfilgrastim-pbbk,pegfilgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),PEGylated,Fylnetra,"Kashiv BioSciences, LLC",761084,351(k) Biosimilar,Biosimilar,pegfilgrastim,Neulasta,Neulasta,Rx
+pegfilgrastim,pegfilgrastim-apgf,pegfilgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),PEGylated,Nyvepria,"Hospira Inc., a Pfizer Company",761111,351(k) Biosimilar,Biosimilar,pegfilgrastim,Neulasta,Neulasta,Rx
+pegfilgrastim,pegfilgrastim-fpgk,pegfilgrastim,'-stim,,Colony-stimulating factor (G-CSF analog),PEGylated,Stimufend,"Fresenius Kabi USA, LLC",761173,351(k) Biosimilar,Biosimilar,pegfilgrastim,Neulasta,Neulasta,Rx
+ranibizumab,ranibizumab,ranibizumab,'-mab,'-zumab,Monoclonal antibody (humanized),Antibody fragment (Fab),Lucentis,"Genentech, Inc.",125156,351(a),Reference,,,Lucentis,Rx
+ranibizumab,ranibizumab-eqrn,ranibizumab,'-mab,'-zumab,Monoclonal antibody (humanized),Antibody fragment (Fab),Cimerli,Sandoz Inc.,761165,351(k) Interchangeable,Interchangeable,ranibizumab,Lucentis,Lucentis,Rx
+ranibizumab,ranibizumab,ranibizumab,'-mab,'-zumab,Monoclonal antibody (humanized),Antibody fragment (Fab),Susvimo,"Genentech, Inc.",761197,351(a),Reference,,,Lucentis,Rx
+ranibizumab,ranibizumab-nuna,ranibizumab,'-mab,'-zumab,Monoclonal antibody (humanized),Antibody fragment (Fab),Byooviz,"Samsung Bioepis Co., Ltd.",761202,351(k) Interchangeable,Interchangeable,ranibizumab,Lucentis,Lucentis,Rx
+rituximab,rituximab,rituximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Rituxan,"Genentech, Inc.",103705,351(a),Reference,,,Rituxan,Rx
+rituximab,rituximab-abbs,rituximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Truxima,"CELLTRION, Inc.",761088,351(k) Biosimilar,Biosimilar,rituximab,Rituxan,Rituxan,Rx
+rituximab,rituximab-pvvr,rituximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Ruxience,Pfizer Ireland Pharmaceuticals,761103,351(k) Biosimilar,Biosimilar,rituximab,Rituxan,Rituxan,Rx
+rituximab,rituximab-arrx,rituximab,'-mab,'-ximab,Monoclonal antibody (chimeric),,Riabni,Amgen Inc.,761140,351(k) Biosimilar,Biosimilar,rituximab,Rituxan,Rituxan,Rx
+tocilizumab,tocilizumab,tocilizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Actemra,"Genentech, Inc.",125276,351(a),Reference,,,Actemra,Rx
+tocilizumab,tocilizumab,tocilizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Actemra,"Genentech, Inc.",125472,351(a),Reference,,,Actemra,Rx
+tocilizumab,tocilizumab-aazg,tocilizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Tyenne,"Fresenius Kabi USA, LLC",761275,351(k) Biosimilar,Biosimilar,tocilizumab,Actemra,Actemra,Rx
+tocilizumab,tocilizumab-bavi,tocilizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Tofidence,Biogen MA Inc.,761354,351(k) Biosimilar,Biosimilar,tocilizumab,Actemra,Actemra,Rx
+tocilizumab,tocilizumab-anoh,tocilizumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Avtozma,"CELLTRION, Inc.",761420,351(k) Interchangeable,Interchangeable,tocilizumab,Actemra,Actemra,Rx
+trastuzumab,trastuzumab,trastuzumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Herceptin,"Genentech, Inc.",103792,351(a),Reference,,,Herceptin,Rx
+trastuzumab,trastuzumab-anns,trastuzumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Kanjinti,Amgen Inc.,761073,351(k) Biosimilar,Biosimilar,trastuzumab,Herceptin,Herceptin,Rx
+trastuzumab,trastuzumab-dkst,trastuzumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Ogivri,Biocon Biologics Inc.,761074,351(k) Biosimilar,Biosimilar,trastuzumab,Herceptin,Herceptin,Rx
+trastuzumab,trastuzumab-qyyp,trastuzumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Trazimera,Pfizer Ireland Pharmaceuticals,761081,351(k) Biosimilar,Biosimilar,trastuzumab,Herceptin,Herceptin,Rx
+trastuzumab,trastuzumab-pkrb,trastuzumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Herzuma,"CELLTRION, Inc.",761091,351(k) Biosimilar,Biosimilar,trastuzumab,Herceptin,Herceptin,Rx
+trastuzumab,trastuzumab-dttb,trastuzumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Ontruzant,"Samsung Bioepis Co., Ltd.",761100,351(k) Biosimilar,Biosimilar,trastuzumab,Herceptin,Herceptin,Rx
+trastuzumab,trastuzumab-strf,trastuzumab,'-mab,'-zumab,Monoclonal antibody (humanized),,Hercessi,Accord BioPharma Inc.,761346,351(k) Biosimilar,Biosimilar,trastuzumab,Herceptin,Herceptin,Rx
+ustekinumab,ustekinumab,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Stelara,"Janssen Biotech, Inc.",125261,351(a),Reference,,,Stelara,Rx
+ustekinumab,ustekinumab,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Stelara,"Janssen Biotech, Inc.",761044,351(a),Reference,,,Stelara,Rx
+ustekinumab,ustekinumab-auub,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Wezlana,Amgen Inc.,761285,351(k) Interchangeable,Interchangeable,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-auub,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Wezlana,Amgen Inc.,761331,351(k) Interchangeable,Interchangeable,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-stba,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Steqeyma,"CELLTRION, Inc.",761338,351(k) Biosimilar,Biosimilar,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-aekn,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Selarsdi,Alvotech USA Inc.,761343,351(k) Biosimilar,Biosimilar,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-srlf,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Imuldosa,Accord BioPharma Inc.,761364,351(k) Biosimilar,Biosimilar,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-ttwe,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Pyzchiva,"Samsung Bioepis Co., Ltd.",761373,351(k) Biosimilar,Biosimilar,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-aauz,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Otulfi,"Fresenius Kabi USA, LLC",761379,351(k) Biosimilar,Biosimilar,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-kfce,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Yesintek,Biocon Biologics Inc.,761406,351(k) Biosimilar,Biosimilar,ustekinumab,Stelara,Stelara,Rx
+ustekinumab,ustekinumab-ttwe,ustekinumab,'-mab,'-umab,Monoclonal antibody (human),,Pyzchiva,"Samsung Bioepis Co., Ltd.",761425,351(k) Biosimilar,Biosimilar,ustekinumab,Stelara,Stelara,Rx
